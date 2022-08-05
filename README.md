@@ -12,11 +12,11 @@ Role : Data Science and Business Analytics Intern
 **ML Algorithm used** : Linear Regression
 
 **Python Libraries used** :
-    1. sklearn.
-    2. Pandas.
-    3. numpy.
-    4. seaborn.
-    5. matplotlib.
+ # 1. sklearn.
+ # 2. Pandas.
+ # 3. numpy.
+ # 4. seaborn.
+ # 5. matplotlib.
 
 ## Predicted Values 
 ---
