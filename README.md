@@ -11,8 +11,8 @@ Dataset : https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/stude
 
 ##### Predicted Values 
 Predicting score if a student studies for 9.25 hrs/ day
-/n No. of hours = 9.25 hrs
-/n Predicted Score = 93.69173248737538
+#No. of hours = 9.25 hrs
+#Predicted Score = 93.69173248737538
 
 ##### Evaluation of the Regression model
 Mean absolute Error = 4.183859899002975
