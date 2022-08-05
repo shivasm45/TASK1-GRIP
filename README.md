@@ -10,13 +10,13 @@ Role : Data Science and Business Analytics Intern
 **Dataset** : https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
 
 **ML Algorithm used** : Linear Regression
-
+----
 **Python Libraries used** :
- # 1. sklearn.
- # 2. Pandas.
- # 3. numpy.
- # 4. seaborn.
- # 5. matplotlib.
+1. sklearn.
+2. Pandas.
+3. numpy.
+4. seaborn.
+5. matplotlib.
 
 ## Predicted Values 
 ---
