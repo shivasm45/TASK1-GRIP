@@ -9,8 +9,7 @@ Role : Data Science and Business Analytics Intern
 
 **ML Algorithm used** : Linear Regression
 
-**Python Libraries used** :
-----
+**Python Libraries used** 
 1. sklearn.
 2. Pandas.
 3. numpy.
@@ -18,13 +17,11 @@ Role : Data Science and Business Analytics Intern
 5. matplotlib.
 
 ## Predicted Values 
-----
 Predicting score if a student studies for 9.25 hrs/ day
 - No. of hours = 9.25 hrs
 - Predicted Score = 93.69173248737538
 
-## Evaluation of the Regression Model
-----
+## Evaluation of the Regression Model 
 - Mean absolute Error = 4.183859899002975
 - Mean squared Error = 21.5987693072174
 - Root mean squared Error = 4.6474476121003665
