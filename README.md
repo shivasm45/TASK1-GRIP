@@ -5,11 +5,11 @@ Role : Data Science and Business Analytics Intern
 
 ## TASK - 1 : Prediction using Supervised ML
 
-Problem Statement : To predict the Percentage of Student based on Number of hours.    
+**Problem Statement** : To predict the Percentage of Student based on Number of hours.    
 
-Dataset : https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
+**Dataset** : https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
 
-ML Algorithm used : Linear Regression
+**ML Algorithm used** : Linear Regression
 
 ## Predicted Values 
 ---
