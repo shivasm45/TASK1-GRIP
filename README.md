@@ -1,7 +1,7 @@
+# GRIP August'21
 ### The Sparks Foundation - Virtual Internship (Sept 2021 - Oct 2021)
 
-## GRIP August'21
-#### Role : Data Science and Business Analytics Intern
+Role : Data Science and Business Analytics Intern
 
 TASK - 1 : Prediction using Supervised ML
 
